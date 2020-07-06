@@ -1,0 +1,4 @@
+pybuilder==0.12.7.dev20200610062423
+pyserial==3.4
+argparse==1.4.0
+typing==3.7.4.1
